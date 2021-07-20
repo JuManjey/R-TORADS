@@ -1,2 +1,3 @@
-# ohmyzsh
-install oh-my-zsh, autosuggestions...
+#default installation script
+
+
