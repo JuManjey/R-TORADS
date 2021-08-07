@@ -1,8 +1,7 @@
 **#install:**
 **DEFAULT**
-update&upgrade,ohmyzsh+plugins
-
 ****
+update&upgrade,ohmyzsh+plugins
 x2go+xfce4+ufw+virtualmin, gnome 
 
 dns, openvpn+wireguard+shadowsocks+TORvpn+(~pppt)
